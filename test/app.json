@@ -1,5 +1,5 @@
 {
-  "id": "00000000-0000-0000-0000-000000000002",
+  "id": "64ee1a93-050c-443c-9efd-074522d662b0",
   "name": "Default Test App Name",
   "publisher": "Default Publisher",
   "brief": "",
@@ -33,7 +33,7 @@
       "name": "Default App Name",
       "publisher": "Default Publisher",
       "version": "1.0.0.0",
-      "appId": "00000000-0000-0000-0000-000000000001"
+      "appId": "c2350c8a-2d7f-42d5-b136-8ba351f5b145"
     }
   ],
   "screenshots": [],

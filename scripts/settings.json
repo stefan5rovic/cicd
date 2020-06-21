@@ -51,10 +51,10 @@
         },
         {
             "profile": "Default",
-            "navContainerHelperPath": "",
-            "licenseFilePath": "<licensefile>",
-            "Username": "<username>",
-            "Password": "<encrypted or plain password>",
+            "navContainerHelperPath": "C:\\Program Files\\WindowsPowerShell\\Modules\navcontainerhelper\\0.6.5.0\\NavContainerHelper.ps1",
+            "licenseFilePath": "C:\\Licenses\\BC v16 Global Training Center License_W1.flf",
+            "Username": "admin",
+            "Password": "admin",
             "AzureVM": {
                 "ComputerName": "<azure VM uri>",
                 "Username": "<azure VM username>",
