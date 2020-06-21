@@ -13,7 +13,7 @@ stages:
       skipComponentGovernanceDetection: True
 
     pool:
-      name: Default
+      name: AZ400
 
     steps:
     - task: PowerShell@2
